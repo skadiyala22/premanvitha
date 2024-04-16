@@ -1,2 +1,2 @@
-# Air Quality Prediction Using RNN
+# AirQualityPrediction-Dataset
 Air Quality Prediction Using RNN
